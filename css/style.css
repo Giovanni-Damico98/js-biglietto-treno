@@ -1,0 +1,14 @@
+#my-div,
+#second-div,
+#payment {
+  border: solid 1px black;
+  width: 500px;
+}
+
+#payment i:hover {
+  scale: 1.1;
+}
+
+#payment i:active {
+  scale: 1.2;
+}
